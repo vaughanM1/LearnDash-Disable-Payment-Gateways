@@ -9,6 +9,8 @@
  */
 
 /* Removes Pay now & Recurring payment options from the Course/Group access options
+ * IMPORTANT! This file should be placed in the /wp-content/mu-plugins folder.
+ *
  * Sets default access method to Free
  * Available values for ['options']
  *   - paynow (Buy now option field
